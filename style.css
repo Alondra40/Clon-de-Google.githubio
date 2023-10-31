@@ -90,7 +90,7 @@ main .main-buttons button{
     height: 30px;
     background-color: #f2f2f2;
     border: 0;
-    font-size: 14px; /*Tamaño de letra*/
+    font-size: 14px;
     border-radius: 8px;
     padding: 0 15px; /*Espacio interior*/
     margin-right: 30px;
@@ -132,5 +132,5 @@ footer .footer-right{
 
 footer ul li a{
     margin: 10px; /*Espaciado entre los enlaces*/
-    color:#525252; /*Cambiar letras de color*/
+    color:#525252;
 }
